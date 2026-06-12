@@ -1,0 +1,5 @@
+c:\Users\Vittorio\Desktop\Preventivator\preventivator\bin\Debug\preventivator.dacpac
+c:\Users\Vittorio\Desktop\Preventivator\preventivator\obj\Debug\Model.xml
+c:\Users\Vittorio\Desktop\Preventivator\preventivator\obj\Debug\refactor.xml
+c:\Users\Vittorio\Desktop\Preventivator\preventivator\obj\Debug\postdeploy.sql
+c:\Users\Vittorio\Desktop\Preventivator\preventivator\obj\Debug\predeploy.sql
