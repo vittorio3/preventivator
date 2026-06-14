@@ -1,3 +1,21 @@
-#c1{
-    width: 100%;
+img{
+    display: block;
 }
+
+#c1{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: stretch;
+  gap: 30px;
+}
+
+#c1i1,#c1i2,#c1i3{
+    align-self: center;
+    box-sizing: border-box;
+    width: 30%;
+}
+
+

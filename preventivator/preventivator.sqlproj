@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Name>preventivator</Name>
     <ProjectGuid>{B7D0C68B-C13C-4D0D-9E33-A02D6AC0CDC5}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql170DatabaseSchemaProvider</DSP>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
     <ModelCollation>1033, CI</ModelCollation>
   </PropertyGroup>
   <ItemGroup>
