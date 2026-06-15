@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\Desktop\\preventivator\\preventivator\\preventivator.sqlproj": {}
+    "c:\\Users\\Vittorio\\Desktop\\preventivator\\preventivator\\preventivator.sqlproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\Desktop\\preventivator\\preventivator\\preventivator.sqlproj": {
+    "c:\\Users\\Vittorio\\Desktop\\preventivator\\preventivator\\preventivator.sqlproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\Desktop\\preventivator\\preventivator\\preventivator.sqlproj",
+        "projectUniqueName": "c:\\Users\\Vittorio\\Desktop\\preventivator\\preventivator\\preventivator.sqlproj",
         "projectName": "preventivator",
-        "projectPath": "c:\\Users\\User\\Desktop\\preventivator\\preventivator\\preventivator.sqlproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\User\\Desktop\\preventivator\\preventivator\\obj\\",
+        "projectPath": "c:\\Users\\Vittorio\\Desktop\\preventivator\\preventivator\\preventivator.sqlproj",
+        "packagesPath": "C:\\Users\\Vittorio\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Vittorio\\Desktop\\preventivator\\preventivator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Vittorio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
